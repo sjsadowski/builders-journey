@@ -1,0 +1,17 @@
+[project]
+name = "builders-journey"
+version = "0.1.0"
+description = "Default template for PDM package"
+authors = [
+    {name = "Stephen Sadowski", email = "stephen.sadowski@sjsadowski.com"},
+]
+dependencies = [
+    "python-frontmatter>=1.1.0",
+]
+requires-python = "==3.12.*"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+distribution = false

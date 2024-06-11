@@ -22,7 +22,7 @@ Filenames should follow the pattern YYYY-MM-DD-Number-Underscore_Replaced_Short_
 - draft: \* [true, false] display status
 - tags: yaml list of tags
 - preview: short excerpt
-- category: \* [tech, business, etc]
+- category: \* [tech, business, etc] categories used to filter articles
 
 
 ## generating the index

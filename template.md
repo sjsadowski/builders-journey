@@ -9,5 +9,6 @@ revisions:
 draft: false
 tags:
   - fullstack
-preview: 
+preview:
+category:
 ---
